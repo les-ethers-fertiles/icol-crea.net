@@ -22,8 +22,8 @@ $(window).on('load', function () {
   // Product slider
   $('.product-slider').slick({
     infinite: true,
-    slidesToShow: 4,
-    slidesToScroll: 1,
+    slidesToShow: 3,
+    slidesToScroll: 2,
     autoplay: true,
     dots: false,
     arrows: false,

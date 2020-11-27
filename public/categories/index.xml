@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Vex | hugo landing page template</title>
-    <link>http://examplesite.com/categories/</link>
-    <description>Recent content in Categories on Vex | hugo landing page template</description>
+    <title>Categories on ICÖL</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on ICÖL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <language>fr-fr</language>
+    <copyright>Design par [l&#39;association TeDua](https://association-tedua.fr) &amp; développé par [habsinn](https://lesethersfertiles.eu/)</copyright>
     
-	<atom:link href="http://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

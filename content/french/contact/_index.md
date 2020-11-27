@@ -3,17 +3,17 @@ title: "Contact"
 description : "this is a meta description"
 
 office:
-  title : "Central Office"
+  title : "Infos pratiques"
   mobile : "0124857985320"
   email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
+  location : "Bordeaux métropole, France"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
 
 # opennig hour
 opennig_hour:
-  title : "Opening Hours"
+  title : "Prochains évènements "
   day_time:
-    - "Monday: 9:00 – 19:00"
+    - "Marché de La Teste - "
     - "Tuesday: 9:00 – 19:00"
     - "Wednesday: 9:00 – 19:00"
     - "Thursday: 9:00 – 19:00"

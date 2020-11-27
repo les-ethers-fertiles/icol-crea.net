@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
-title = "Vex | hugo landing page template"
+baseurl = ""
+title = "ICÖL"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
@@ -8,6 +8,7 @@ summarylength = "20"
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
 disableLanguages = [] # disable language from here
+defaultContentLanguage = "fr"
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -42,49 +43,47 @@ link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
 
 # homepage section menu
 [[menu.main]]
-name = "Home"
+name = "Créations"
 URL = "/"
 weight = 1
 
-[[menu.main]]
-name = "Products"
-URL = "products"
-weight = 2
+#[[menu.main]]
+#name = "Produits"
+#URL = "products"
+#weight = 2
+
+#[[menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 3
 
 [[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 3
-
-[[menu.main]]
-name = "Review"
-pre = "#"
-URL = "testimonial"
+name = "Actualités de l'artisan"
+URL = "contact"
 weight = 4
 
 [[menu.main]]
-name = "Contact"
+name = "Son collectif"
 URL = "contact"
 weight = 5
-
 # footer menu
-[[menu.footer]]
-name = "Blog"
-URL = "blog"
-weight = 1
+# [[menu.footer]]
+# name = "Blog"
+# URL = "blog"
+# weight = 1
 
 [[menu.footer]]
-name = "Contact"
+name = "Contacter l'artisan"
 URL = "contact"
 weight = 2
 
 [[menu.footer]]
-name = "Terms & Conditions"
+name = "Termes"
 URL = "terms-conditions"
 weight = 3
 
 [[menu.footer]]
-name = "Privacy Policy"
+name = "Données à caractère personnel"
 URL = "privacy-policy"
 weight = 4
 
@@ -94,10 +93,10 @@ weight = 4
 logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "ICOL est un artisan qui crée des bijoux singuliers en macramé et en pierres, entouré par une communauté de 9 membres de l'association TeDua."
+author = "association TeDua"
 # currency
-currency = "$"
+currency = "€"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # snipcart public api key
@@ -114,22 +113,14 @@ preloader = "" # use .png , .svg or .gif format
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
-
-################################### English language #####################################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-
-
 ################################### French language #####################################
 [Languages.fr]
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 2
+weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Design par [l'association TeDua](https://association-tedua.fr) & développé par [habsinn](https://lesethersfertiles.eu/)"
+
+
+

@@ -5,7 +5,7 @@ $primary-font: 'Josefin Sans',
 sans-serif;
 $secondary-font: 'Droid Serif',
 serif;
-$primary-color: #f9a743;
+$primary-color: #f7ba74;
 $icon-font: 'themefisher-font' !important;
 
 /*--
@@ -20,6 +20,20 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+#imagedefond {
+  background-image: url('/images/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.responsive {
+  width: 80%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .preloader {
   position: fixed;
@@ -128,7 +142,7 @@ a:active {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 0px 0;
 }
 
 .font-size-60 {
@@ -290,7 +304,7 @@ a:active {
   Gallery start
 --*/
 .gallery {
-  padding-bottom: 100px;
+  padding-bottom: 0px;
 
   .owl-item {
     overflow: hidden;
@@ -314,8 +328,8 @@ a:active {
     left: 15px;
     right: 15px;
     top: 15px;
-    background: rgba(255, 255, 255, 0.85);
     text-decoration: none;
+    background: rgba(255, 255, 255, 0.85);
     color: inherit;
     -webkit-transform: scale(.7);
     transform: scale(.7);
@@ -619,4 +633,45 @@ textarea.form-control {
     padding: 10px 20px;
     background: #dadada;
   }
+}
+
+ /* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Style the button used to pause/play the video */
+#myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+} 
+
+.center { 
+margin: 0 auto; 
+width: 80%; 
 }

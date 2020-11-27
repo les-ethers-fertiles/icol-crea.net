@@ -1,18 +1,18 @@
 ---
-title: "Galaxy Watch"
+title: "Ailes d'archange"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "images/showcase/bijou2.1.jpg"
+  - "images/showcase/bijou2.2.jpg"
+  - "images/showcase/bijou2.3.jpg"
+  - "images/showcase/bijou2.4.jpg"
 
 # meta description
 description : "this is meta description"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "13660.00"
+###discount_price: "25.00"####
 
 # product variation
 colors : ["black","white","gray"]
