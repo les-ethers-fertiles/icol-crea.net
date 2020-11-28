@@ -90,7 +90,7 @@ weight = 4
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = ""
 logo_width = "100px"
 # Meta data
 description = "ICOL est un artisan qui crée des bijoux singuliers en macramé et en pierres, entouré par une communauté de 9 membres de l'association TeDua."
