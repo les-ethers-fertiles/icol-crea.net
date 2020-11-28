@@ -1,5 +1,5 @@
 ---
-title: "Pendantif bis"
+title: "Terre Amour"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/bijou4.1.jpg"
@@ -14,20 +14,19 @@ price: "9870.00"
 ###discount_price: "25.00"####
 
 # product variation
-inspiration : ["«Je me suis reposé dans le cou de ma bien-aimée. sa nuque comme horizon, son écoute comme souffle, et ses trois lunes comme miroir de son éternité.»"]
-forme : ["Boucles d’oreille pendantes"]
-pierre : ["Améthyste"]
-symbolique : ["Apaisement", "Action onirique"]
-taille_pierre : ["7 mm, 5 mm (diamètres)"]
+inspiration : ["Tu es, mon amour, hors du mouvement des mondes. Tu es à la fois le vide dans lequel toutes mes larmes s’évaporent, et l’égale des monts immortels où tous les enfants de la terre fêtent leur vie par la tienne. Merci, je t’aime."]
+forme: ["Collier ajustable"]
+pierre : ["Labradorite"]
+symbolique : ["Protection", "Imagination"]
+taille_pierre : ["30 x 20mm"]
 type : ["Polie", "Cabochon"]
-perles : ["Argent"]
-fil : ["Polyester"]
-monture : ["Argent"]
-taille_bijou : ["30 mm"]
+perles : ["Verre", "Laiton"]
+fil : ["Polyester 1mm résistant à l eau"]
+monture : ["",]
+taille_bijou : ["530mm au toal, ajustable en pendentif de 70mm "]
 couleurs : ["", ]
 
 
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.

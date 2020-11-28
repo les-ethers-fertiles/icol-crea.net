@@ -1,18 +1,17 @@
 ---
-title: "Pendantif 666"
+title: "Trois-Lunes"
 date: 2019-10-17T11:22:16+06:00
 image: "images/showcase/showcase-5.png"
 images: 
-  - "images/showcase/bijou6.1.jpg"
-  - "images/showcase/bijou6.3.jpg"
-  - "images/showcase/bijou6.4.jpg"
-  - "images/showcase/bijou6.5.jpg"
+  - "images/showcase/bijou5.1.jpg"
+  - "images/showcase/bijou5.2.jpg"
+  - "images/showcase/bijou5.3.jpg"
 
 # meta description
 description : "this is meta description"
 
 # product Price
-price: "30.00"
+price: "5800.00"
 ###discount_price: "25.00"####
 
 # product variation
@@ -20,7 +19,7 @@ inspiration : ["«Je me suis reposé dans le cou de ma bien-aimée. sa nuque com
 forme : ["Boucles d’oreille pendantes"]
 pierre : ["Améthyste"]
 symbolique : ["Apaisement", "Action onirique"]
-taille_pierre : ["7 mm, 5 mm (diamètres)"]
+taille_pierre : ["7mm et 5mm x2 (diamètres)"]
 type : ["Polie", "Cabochon"]
 perles : ["Argent"]
 fil : ["Polyester"]
@@ -32,4 +31,3 @@ couleurs : ["", ]
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.

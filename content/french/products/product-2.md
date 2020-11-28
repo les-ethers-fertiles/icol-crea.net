@@ -1,5 +1,5 @@
 ---
-title: "Ailes d'archange"
+title: "Ailes d'Archange"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/bijou2.1.jpg"
@@ -22,7 +22,7 @@ symbolique : ["Authenticité", "Facilitation de l’expression"]
 taille_pierre : ["10mm de diamètre"]
 type : ["Polie", "Cabochon"]
 perles : ["Laiton","Verre"]
-fil : [""Polyester 1 mm resistant à l'eau"]
+fil : ["Polyester 1 mm resistant à l'eau"]
 monture : ["Argent"]
 taille_bijou : ["370mm", "Ajustable en pendantif (40mm)"]
 couleurs : ["", ]

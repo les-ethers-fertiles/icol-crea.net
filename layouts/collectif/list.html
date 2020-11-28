@@ -8,11 +8,10 @@
     <div class="row justify-content-center">
 	<div class="col-lg-8 col-sm-6 mb-5">
 	  <h2 class="font-weight-bold mb-4">{{ .Title | markdownify }}</h2>
-          <p><i>{{ .Content | markdownify }}</i></p>
-	 
+          <p class="text-white">{{ .Content | markdownify }}</p>
 	</div>
-    
-   
+    </div>
+   </div>
 </section>
 
 {{ end }}

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact on ICÖL</title>
+    <title>Rencontrer ICÖL on ICÖL</title>
     <link>/contact/</link>
-    <description>Recent content in Contact on ICÖL</description>
+    <description>Recent content in Rencontrer ICÖL on ICÖL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <copyright>Design par [l&#39;association TeDua](https://association-tedua.fr) &amp; développé par [habsinn](https://lesethersfertiles.eu/)</copyright>
     
 	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     
