@@ -25,15 +25,15 @@ promo:
 #################################### Products ########################
 products:
   enable : true
-  title : "macramé et pierres"
+  title : "Les 6 bijoux du moment :"
 
 
 ################################## Subscription ###################
 subscription:
   enable : true
   bg_image : "images/background.jpg"
-  title : "Sur-mesure"
-  content : "Loïc Arnaud propose aussi des bijoux sur-mesure, créés et fabriqués à la main à partir d'un souhait, d'un mot, d'une ambiance que vous lui commandez."
+  title : "Sur-Mesure : "
+  content : "Loïc Arnaud crée et fabrique des bijoux sur-mesure, entièrement imaginés à partir d'un souhait, d'un mot, d'une ambiance que vous lui commandez : "
   placeholder : "Votre email ici pour faire votre demande"
 
 

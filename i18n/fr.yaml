@@ -1,8 +1,8 @@
 - id: "add_to_cart"
-  translation: "Acheter"
+  translation: "Acheter ce bijou >>>"
   
 - id: "send"
-  translation: "Envoyer le message ==>"
+  translation: "Envoyer le message >>>"
   
 - id: "subscribe"
   translation: "s'inscrire"
@@ -10,11 +10,4 @@
 - id: "read_more"
   translation: "Read More"
   
-- id: "subscribe"
-  translation: "Subscribe"
-  
-- id: "subscribe"
-  translation: "Subscribe"
-  
-- id: "subscribe"
-  translation: "Subscribe"
+

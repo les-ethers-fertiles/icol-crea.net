@@ -3,9 +3,11 @@
     {{- partial "head.html" . -}}
     <body id="body">
     <div id="imagedefond">
+      <div class="layer">
         {{- partial "header.html" . -}}
         {{- block "main" . }}{{- end }}
         {{- partial "footer.html" . -}}
+      </div>
     </div>
     </body>
 </html>

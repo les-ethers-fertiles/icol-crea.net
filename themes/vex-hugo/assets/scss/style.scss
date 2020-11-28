@@ -28,7 +28,7 @@ body {
 }
 
 .responsive {
-  width: 80%;
+  width: 70%;
   height: auto;
   display: block;
   margin-left: auto;
@@ -106,7 +106,7 @@ a {
 }
 
 .bg-1 {
-  background-image: url(../images/call-to-action.jpg);
+  background-image: url(../images/background.jpg);
 }
 
 .bg-orange {
@@ -675,3 +675,31 @@ textarea.form-control {
 margin: 0 auto; 
 width: 80%; 
 }
+
+#collectif {
+  padding: 40px 0;
+}
+
+/* rendre opaque certaines ections pour faire ressortir l'image de fond*/
+.layer {
+    opacity: 1;
+}
+
+.imageborders {
+  border-radius: 50%;
+}
+
+.surmesure_button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: $primary-color;
+}
+
+

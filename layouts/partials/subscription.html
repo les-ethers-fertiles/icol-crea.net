@@ -8,9 +8,10 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-8 text-center mx-auto">
-        <h2 class="subheading text-white">{{ .title | markdownify }}</h2>
+        <h2 class="subheading  text-white">{{ .title | markdownify }}</h2>
         <p class="text-white">{{ .content | markdownify }}</p>
-        <div class="input-group">
+         <a href="http://localhost:1313/contact/#/"><button type="button" class="surmesure_button btn btn-main btn-main-sm" >Demander du sur-mesure >>></button></a> 
+        <!--<div class="input-group">
           <form action="{{ site.Params.mailchimp_form_action }}" method="post" class="w-100" name="mc-embedded-subscribe-form" target="_blank">
             <input type="email" id="email" class="form-control" name="email" placeholder="{{ .placeholder }}"
               required>
@@ -19,7 +20,7 @@
               <input type="text" name="{{ site.Params.mailchimp_form_name }}" tabindex="-1">
             </div>
           </form>
-        </div><!-- /input-group -->
+        </div><!-- input-group -->
       </div>
     </div>
   </div>

@@ -58,13 +58,13 @@ weight = 1
 #weight = 3
 
 [[menu.main]]
-name = "Actualités de l'artisan"
+name = "Rencontrer l'artisan"
 URL = "contact"
 weight = 4
 
 [[menu.main]]
 name = "Son collectif"
-URL = "contact"
+URL = "collectif"
 weight = 5
 # footer menu
 # [[menu.footer]]
@@ -73,7 +73,7 @@ weight = 5
 # weight = 1
 
 [[menu.footer]]
-name = "Contacter l'artisan"
+name = "Contact"
 URL = "contact"
 weight = 2
 
@@ -120,7 +120,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 1
 # copyright
-copyright = "Design par [l'association TeDua](https://association-tedua.fr) & développé par [habsinn](https://lesethersfertiles.eu/)"
-
+copyright1 = "Design par"
+copyright2 = "& Code par"
 
 

@@ -15,13 +15,27 @@
         </div>
       </div>
       <div class="col-lg-6 col-md-7 offset-lg-1">
-        <h1 class="mb-4">{{ .Title }}</h1>
-        {{ with .Params.colors }}<p><strong>Colors: </strong>{{ delimit . ", " | title}}</p>{{ end }}
-        {{ with .Params.sizes }}<p><strong>Sizes: </strong>{{ delimit . ", " | title}}</p>{{ end }}
-        <p class="price py-4">{{if .Params.discount_price}}{{site.Params.currency}}{{.Params.discount_price}}{{else}}{{site.Params.currency}}{{.Params.price}}{{end}}
+        <h1 class="mb-4 text-white">{{ .Title }} </h1>  
+	{{ with .Params.inspiration }}<p class="text-white"><i>{{ delimit . ", " | }}</i></p>{{ end }}
+	{{ with .Params.forme }}<p class="text-white"><strong>Forme : </strong> {{ delimit . ", " | }}</p>{{ end }}
+	{{ with .Params.pierre }}<p class="text-white"><strong>Pierre :</strong> {{ delimit . ", " |}}</p>{{ end }}
+	{{ with .Params.symbolique }}<p class="text-white"><strong>Miroir symbolique:</strong> {{ delimit . ", " | title}}</p>{{ end }} 
+	{{ with .Params.taille_pierre }}<p class="text-white"><strong>Taille de la pierre :</strong> {{ delimit . ", " | }}</p>{{ end }}
+	{{ with .Params.type }}<p class="text-white"><strong>Type :</strong> {{ delimit . ", " | }}</p>{{ end }} 
+	{{ with .Params.perles }}<p class="text-white"><strong>Perles :</strong> {{ delimit . ", " | }}</p>{{ end }} 
+	{{ with .Params.fil }}<p class="text-white"><strong>Fil :</strong> {{ delimit . ", " | }}</p>{{ end }} 
+	{{ with .Params.monture }}<p class="text-white"><strong> Monture :</strong> {{ delimit . ", " | }}</p>{{ end }} 
+        {{ with .Params.taille_bijou }}<p class="text-white"><strong> Taille du bijou :</strong> {{ delimit . ", " | }}</p>{{ end }} 
+        {{ with .Params.colors }}<p class="text-white"><strong>Couleurs : </strong> {{ delimit . ", " | }}</p>{{ end }}
+
+        <div class="row">
+           <div class="col-md-4 mb-4 mb-md-0">
+        	<p class="price py-4 text-white">{{if .Params.discount_price}}{{site.Params.currency}}{{.Params.discount_price}}{{else}}{{site.Params.currency}}{{.Params.price}}{{end}}
         {{if .Params.discount_price}}<s class="price">{{site.Params.currency}}{{ .Params.price }}</s>{{end}}
-        </p>
-        <button class="snipcart-add-item btn btn-main mb-5" 
+        	</p>
+           </div>
+	   <div class="col-md-8 mb-4 mb-md-0">
+         	<button class="snipcart-add-item btn btn-main mb-5" 
           data-item-id="{{.Title | urlize}}__{{if .Params.discount_price}}{{.Params.discount_price}}{{else}}{{.Params.price}}{{end}}"
           data-item-name="{{.Title}}"
           data-item-image="{{range first 1 .Params.Images}}{{. | absURL}}{{end}}"
@@ -34,8 +48,9 @@
           data-item-custom2-name="Choose Size"
           data-item-custom2-options="{{range $index, $element:= .Params.sizes}}{{if eq $index 0}}{{. | title}}{{else}}|{{. | title}}{{end}}{{end}}"
           {{end}}>{{i18n "add_to_cart"}}
-        </button>
-      
+        	</button>
+	   </div>
+        </div>
       </div>
     </div>
   </div>

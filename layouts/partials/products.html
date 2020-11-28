@@ -7,7 +7,7 @@
       <div class="col-md-12">
         <div class="heading">
           <br><br>
-<h2>{{ $data.homepage.products.title | markdownify }}</h2>
+<h2 class="text-white">{{ $data.homepage.products.title | markdownify }}</h2>
         </div>
 
         <div class="product-slider">
@@ -18,7 +18,7 @@
                 <i class="tf-ion-android-open"></i>
               </a>
             </div>
-            <img class="img-fluid" src="{{range first 1 .Params.images}}{{.|absURL}}{{end}}" alt="{{.Title}}">
+            <img class="img-fluid imageborders" src="{{range first 1 .Params.images}}{{.|absURL}}{{end}}" alt="{{.Title}}">
           </div>
           {{ end }}
         </div>
