@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = ""
+baseurl = "https://icol-crea.net"
 title = "ICÖL"
 theme = "vex-hugo"
 # post excert

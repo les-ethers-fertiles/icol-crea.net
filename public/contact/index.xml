@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rencontrer ICÖL on ICÖL</title>
-    <link>/contact/</link>
+    <link>https://icol-crea.net/contact/</link>
     <description>Recent content in Rencontrer ICÖL on ICÖL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://icol-crea.net/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

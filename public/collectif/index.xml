@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>- on ICÖL</title>
-    <link>/collectif/</link>
+    <link>https://icol-crea.net/collectif/</link>
     <description>Recent content in - on ICÖL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="/collectif/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://icol-crea.net/collectif/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Son collectif</title>
-      <link>/collectif/son-collectif/</link>
+      <link>https://icol-crea.net/collectif/son-collectif/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/collectif/son-collectif/</guid>
+      <guid>https://icol-crea.net/collectif/son-collectif/</guid>
       <description>Aujourd’hui, depuis 2020, Loïc se lance dans une nouvelle aventure : celle d&#39;être porté par un collectif.
 Il rencontre Lucie Castet, Magali De Bortoli, Jonathan Dupui, Cynthia Perrein, Bastien Lasserre, Habib Belaribi, Anne Lucie Dumay, Farid Lagoune, et se met à construire avec eux le projet Château.</description>
     </item>
