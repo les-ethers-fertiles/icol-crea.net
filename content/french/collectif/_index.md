@@ -7,7 +7,7 @@ draft: false
 <br>
 
 [[...]](http://localhost:1313/contact/#/) <p class="text-white"><i>Aujourd’hui, depuis 2020, Loïc se lance dans une nouvelle aventure : celle d'être porté par un collectif. Il rencontre Lucie Castet, Magali De Bortoli, Jonathan Dupui, Cynthia Perrein, Bastien Lasserre, Habib Belaribi, Anne Lucie Dumay, Farid Lagoune, et se met à construire avec eux le projet Château.<br><br> Ainsi, lors de cette résidence consacrée aux bijoux, chacun des 9 se met au service de l'activité de Loïc. La marque les Porte-Rêves devient ICÖL, personnage de [la mythologie du phare flottant](https://www.zorozorai.land/#/10). Au fil de la semaine, la création des bijoux de Loïc vient rencontrer l'élan artistique porté depuis déjà deux ans dans ce collectif : celui de se tourner vers l'extérieur.<br><br>Et voilà dans quelle ambiance ce site internet s'est créé...</i></p>
-<br><br>
+<br>
     
 <h1 class="text-white"> NEUF+2 : "Des colliers pour Dario Fo"</h1>
 
@@ -52,7 +52,6 @@ Le deuxième dimanche, le 15 novembre, c'est Farid Lagoune qui appréhendait pou
 
 
 <iframe src="https://player.vimeo.com/video/484543882" width="600" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/484543882">Apparition sc&eacute;nique #2 : &quot;Fifoune&quot; | nov 2020</a> par <a href="https://vimeo.com/user98228649">Association Tedua</a></a>.</p>
 
 <br> Le troisème dimanche, celui du 22 novembre, C'est Lucie Castet et Magali De Bortoli, qui, elles aussi, faisaient face à un public par la présence de leurs clownes. pas encore nommées. les deux faisant [L'oon](https://www.soin-4-mains.eu/).
 
