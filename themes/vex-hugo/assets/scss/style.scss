@@ -318,7 +318,7 @@ a:active {
     &:hover .gallery-overlay {
       transform: scale(1);
       opacity: 1;
-      border-radius: 0;
+      border-radius: 50%;
     }
   }
 

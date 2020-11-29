@@ -12,7 +12,7 @@ images:
 description : "this is meta description"
 
 # product Price
-price: "30.00"
+price: 100000"
 ###discount_price: "25.00"####
 
 # product variation
