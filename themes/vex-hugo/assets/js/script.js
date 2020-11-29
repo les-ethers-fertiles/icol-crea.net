@@ -49,7 +49,7 @@ $(window).on('load', function () {
   });
 
 // video plays only once
-// first attach the flag in the onended event
+/* first attach the flag in the onended event
 $('#vid').on('ended', function(){this.playedThrough = true;});
 
 $(window).scroll(function(){
@@ -62,6 +62,6 @@ $(window).scroll(function(){
     }else{
        myVideo.pause();
     }
- })
+ })*/
 
 })(jQuery);

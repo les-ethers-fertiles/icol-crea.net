@@ -15,7 +15,7 @@ price: "100000"
 ###discount_price: "25.00"####
 
 # product variation
-inspiration : ["«Sa majesté du paradoxe m’a dit : 'regarde par quelles violences je suis passée pour me détacher. Regarde avec quelle légèreté je porte la tristesse de ce qui est éphémère.' Alors, je me suis agenouillé, et j’ai pleuré de joie.»"]
+inspiration : ["Sa majesté du paradoxe m’a dit : «Regarde par quelles violences je suis passée pour me détacher. Regarde avec quelle légèreté je porte la tristesse de ce qui est éphémère.» Alors, je me suis agenouillé, et j’ai pleuré de joie."]
 forme : ["Collier ajustable (enrichi en perles)"]
 pierre : ["Lapis tacheté"]
 symbolique : ["Authenticité", "Facilitation de l’expression"]
