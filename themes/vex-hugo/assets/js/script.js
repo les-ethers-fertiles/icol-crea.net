@@ -48,4 +48,20 @@ $(window).on('load', function () {
     ]
   });
 
+// video plays only once
+// first attach the flag in the onended event
+$('#vid').on('ended', function(){this.playedThrough = true;});
+
+$(window).scroll(function(){
+    var myVideo = document.getElementById("vid");
+
+    if($(window).scrollTop() > 300 && $(window).scrollTop() < 975){
+       // only if we didn't reached the end yet
+       if(!myVideo.playedThrough)
+          myVideo.play();
+    }else{
+       myVideo.pause();
+    }
+ })
+
 })(jQuery);
