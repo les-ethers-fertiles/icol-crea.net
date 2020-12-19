@@ -14,7 +14,7 @@ price: "10000"
 ###discount_price: "25.00"####
 
 # product variation
-inspiration : ["Y a-t-il un centre de mon être où la vie éclot ? Quand ai-je été réellement à côté ? Les cicatrices et les blessures sont là, et alors ! Ma chaire chutera, et alors ! Ne vois-tu pas depuis quel espace je te vois ? Viens, il y a encore tant de paysages à découvrir !"]
+inspiration : ["«Y a-t-il un centre de mon être où la vie éclot ? Quand ai-je été réellement à côté ? Les cicatrices et les blessures sont là, et alors ! Ma chaire chutera, et alors ! Ne vois-tu pas depuis quel espace je te vois ? Viens, il y a encore tant de paysages à découvrir !»"]
 forme: ["Collier ajustable"]
 pierre : ["Zoïsite de Rubis"]
 symbolique : ["Dynamisme", "Régénération", "Fécondité"]

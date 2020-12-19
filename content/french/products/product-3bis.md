@@ -16,7 +16,7 @@ price: 100000"
 ###discount_price: "25.00"####
 
 # product variation
-inspiration : ["Je suis parti jusqu’à me perdre. J’ai rencontré des mondes jusqu’à ne plus savoir qui je pouvais être. Aurais-je loupé l’heure du temps ? Et pourtant tout s’entremêle et s’harmonise. Tout demeure. Toute la profondeur se perçoit."]
+inspiration : ["«Je suis parti jusqu’à me perdre. J’ai rencontré des mondes jusqu’à ne plus savoir qui je pouvais être. Aurais-je loupé l’heure du temps ? Et pourtant tout s’entremêle et s’harmonise. Tout demeure. Toute la profondeur se perçoit.»"]
 forme : ["Bracelet de poignée"]
 pierre : ["Oeil de tigre"]
 symbolique : ["Protection", "Force", "Courage"]

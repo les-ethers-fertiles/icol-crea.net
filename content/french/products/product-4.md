@@ -14,7 +14,7 @@ price: "9999.99"
 ###discount_price: "25.00"####
 
 # product variation
-inspiration : ["Tu es, mon amour, hors du mouvement des mondes. Tu es à la fois le vide dans lequel toutes mes larmes s’évaporent, et l’égale des monts immortels où tous les enfants de la terre fêtent leur vie par la tienne. Merci, je t’aime."]
+inspiration : ["«Tu es, mon amour, hors du mouvement des mondes. Tu es à la fois le vide dans lequel toutes mes larmes s’évaporent, et l’égale des monts immortels où tous les enfants de la terre fêtent leur vie par la tienne. Merci, je t’aime.»"]
 forme: ["Collier ajustable"]
 pierre : ["Labradorite"]
 symbolique : ["Protection", "Imagination"]
