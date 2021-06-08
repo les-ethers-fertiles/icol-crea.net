@@ -5,23 +5,45 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
+
+<!-- title 1 for slider, line 1-->
         <div class="heading">
           <br><br>
-<h2 class="text-white">{{ $data.homepage.products.title | markdownify }}</h2>
+          <h2 class="text-white">{{ $data.homepage.products.title | markdownify }}</h2>
         </div>
-
+<!-- slider, line 1-->
         <div class="product-slider">
-          {{ range (where .Site.RegularPages "Section" "products") }}
+          {{ range (where .Site.RegularPages "Section" "products1") }}
           <div class="block">
             <a href="{{ .Permalink }}" class="gallery-popup">
-		<div class="gallery-overlay">
+		            <div class="gallery-overlay">
                 <!--<i class="tf-ion-android-open"></i>-->
                 </div>
-	    </a>
+	          </a>
             <img class="img-fluid imageborders" src="{{range first 1 .Params.images}}{{.|absURL}}{{end}}" alt="{{.Title}}">
           </div>
           {{ end }}
         </div>
+
+<!-- title 2 for slider, line 2-->
+        <div class="heading">
+          <br><br>
+          <h2 class="text-white">{{ $data.homepage.produits.titre | markdownify }}</h2>
+        </div>
+<!-- slider, line 2-->
+        <div class="product-slider">
+          {{ range (where .Site.RegularPages "Section" "products2") }}
+          <div class="block">
+            <a href="{{ .Permalink }}" class="gallery-popup">
+		            <div class="gallery-overlay">
+                <!--<i class="tf-ion-android-open"></i>-->
+                </div>
+	          </a>
+            <img class="img-fluid imageborders" src="{{range first 1 .Params.images}}{{.|absURL}}{{end}}" alt="{{.Title}}">
+          </div>
+          {{ end }}
+        </div>
+
       </div>
     </div>
   </div>

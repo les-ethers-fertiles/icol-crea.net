@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <a href="{{ site.BaseURL | relLangURL }}" class="mb-4 d-inline-block">{{ if site.Params.logo }} <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" {{with site.Params.logo_width}}width="{{.}}"{{end}}> {{ else }} {{ .Title }} {{ end }}</a>
+          <a href="{{ site.BaseURL | relLangURL }}" class="mb-4 d-inline-block">{{ if site.Params.logo }} <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" {{with site.Params.logo_width}}width="{{.}}"{{end}}> {{ else }} ICÖL {{ end }}</a>
           <ul class="list-inline footer-menu">
             {{ range site.Menus.footer }}
             <li class="list-inline-item">
@@ -11,13 +11,12 @@
             </li>
             {{ end }}
           </ul>
-          <p class="copyright-text">{{ site.Params.copyright1 | markdownify }} <a href="https://association-tedua.fr" target="_blank">l'association Tedua</a> {{ site.Params.copyright2 | markdownify }} <a href="https://lesethersfertiles.eu" target="_blank">habsinn</a></p>
+          <p class="copyright-text">{{ site.Params.copyright1 | markdownify }} <a href="https://association-tedua.fr" target="_blank">l'association Tedua</a> {{ site.Params.copyright2 | markdownify }} <a href="https://github.com/les-ethers-fertiles" target="_blank">les Ethers Fertiles</a></p>
         </div>
       </div>
     </div>
   </div>
 </footer>
-
 
 <!-- Snipcart public key -->
 {{with site.Params.snipcart_api}}<div hidden id="snipcart" data-api-key="{{.}}"></div>{{end}}

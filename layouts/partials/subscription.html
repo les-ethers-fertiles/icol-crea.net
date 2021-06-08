@@ -3,14 +3,15 @@
 {{- if $data.homepage.subscription.enable }}
 {{- with $data.homepage.subscription }}
 
-<section class="call-to-action section" style="background-image: url('{{ .bg_image | absURL }}');">
+<section class="call-to-action">
 <br><br>
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-8 text-center mx-auto">
         <h2 class="subheading  text-white">{{ .title | markdownify }}</h2>
         <p class="text-white">{{ .content | markdownify }}</p>
-         <a href="https://icol-crea.net/contact/#/"><button type="button" class="surmesure_button btn btn-main btn-main-sm" >Votre demande >>></button></a> 
+         <a href="https://icol-crea.net/contact/#/"><button type="button" class="surmesure_button btn btn-main btn-main-sm" >Votre demande >>></button></a>
+      </div>
         <!--<div class="input-group">
           <form action="{{ site.Params.mailchimp_form_action }}" method="post" class="w-100" name="mc-embedded-subscribe-form" target="_blank">
             <input type="email" id="email" class="form-control" name="email" placeholder="{{ .placeholder }}"
@@ -23,7 +24,6 @@
         </div><!-- input-group -->
       </div>
     </div>
-  </div>
 <br><br>
 </section><!-- #call-to-action close -->
 {{- end }}

@@ -77,16 +77,6 @@ name = "Contact"
 URL = "contact"
 weight = 2
 
-[[menu.footer]]
-name = "Termes"
-URL = "terms-conditions"
-weight = 3
-
-[[menu.footer]]
-name = "Données à caractère personnel"
-URL = "privacy-policy"
-weight = 4
-
 
 ########################### Default parameters ##########################
 [params]
@@ -98,7 +88,7 @@ author = "association TeDua"
 # currency
 currency = "€"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mknkbwwn" # contact form works with https://formspree.io
 # snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
@@ -122,5 +112,3 @@ weight = 1
 # copyright
 copyright1 = "Design par"
 copyright2 = "& Code par"
-
-

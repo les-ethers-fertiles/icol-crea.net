@@ -1,15 +1,12 @@
 ---
-title: "-"
-description : "this is a meta description"
+title: "Son Collectif"
+description : "Rencontrer le collectif qui porte les créations de l'artisan ICÖL."
 draft: false
 ---
 
-<br>
 
-[[...]](http://localhost:1313/contact/#/)   
-
-<p class="text-white"><span>Depuis 2020, Loïc se lance dans une nouvelle aventure : celle d’être porté par un collectif.</span><br>
-<span>Il rencontre Lucie Castet, Magali De Bortoli, Jonathan Dupui, Cynthia Perrein, Bastien Lasserre, Habib Belaribi, Anne Lucie Dumay, Farid Lagoune, et se met à construire avec eux le projet Château.</span></p><p class="text-white"><span>Ainsi, lors de cette résidence consacrée aux bijoux, chacun des 9 se met au service de l’activité de Loïc. La marque les Porte-Rêves devient ICÖL, personnage de </span><a href="https://www.zorozorai.land/#/10" target="_blank" rel="noopener"><span>la mythologie du phare flottant</span></a><span>.</span><br>
+<p class="text-white"><span>Depuis 2020, <a href="https://icol-crea.net/contact/#/ target="_blank">Loïc</a> se lance dans une nouvelle aventure : celle de se laisser porter par un collectif.</span><br>
+<span>Il rencontre Lucie Castet, Magali De Bortoli, Jonathan Dupui, Cynthia Perrein, Bastien Lasserre, Habib Belaribi, Anne Lucie Dumay, Farid Lagoune, et se met à construire avec eux le "projet Château".</span></p><p class="text-white"><span>Ainsi, lors de cette résidence consacrée aux bijoux, chacun des 9 se met au service de l’activité de Loïc. La marque les Porte-Rêves devient ICÖL, personnage de </span><a href="https://www.zorozorai.land/#/10" target="_blank" rel="noopener"><span>la mythologie du phare flottant</span></a><span>.</span><br>
 <span>Au fil de la semaine, la création des bijoux de Loïc vient rencontrer l’élan artistique porté depuis déjà deux ans dans ce collectif : celui de se tourner vers l’extérieur.</span></p><p class="text-white"><span>Et voilà dans quelle ambiance ce site internet s’est créé…</span></p><br><h1 class="text-white" id="NEUF2--Des-bijoux-pour-Franca-Rame-et-Dario-Fo" data-id="NEUF2--Des-bijoux-pour-Franca-Rame-et-Dario-Fo"><span>NEUF+2 : Des bijoux pour Franca Rame et Dario Fo</span></h1><p class="text-white"><br><br><br>
 <audio controls=""><source src="/images/son_collectif/residence-de-l-artisan-icol-fin_nov_2020/cynthia_couture_collectif.mp3" type="audio/mpeg"></audio></p><p class="text-white"><font size="2"><i>- dans cet enregistrement audio : Cynthia parle de son activité de couturière autonome et de sa rencontre avec Jonathan, Anne Lucie, Habib et Bastien -</i></font></p><p class="text-white"><br><br>
 <img src="/images/son_collectif/residence-de-l-artisan-icol-fin_nov_2020/01.jpg" alt="" class="responsive"><br></p><p class="text-white"><span>Depuis l’apparition du </span><a href="https://blog.association-tedua.fr/accueil/residence-du-clown-mouce-novembre-2020/" target="_blank" rel="noopener"><span>clown Mouce</span></a><span>, où la suprématie du Caprice est bien ce qui détruit tout ; qui n’est qu’un autre mot pour dire “désir”.</span><br>
@@ -44,12 +41,6 @@ draft: false
 <span>-</span><em><span>Flotter!</span></em><span> (répondent-ils en choeur par l’inquiétude, la colère, la joie ou la certitude)</span><br>
 <span>-</span><em><span>Ou Sombrer.</span></em><span> (rajoute le plus conscient d’entre eux)</span><br>
 <span>-</span><em><span>Ou se reposer sur mes genoux.</span></em><span> (en sourit Yeroelle)</span></p>
-</blockquote></div>
+</blockquote>
 
-<p class="text-white"><font size="5"><a href="https://blog.association-tedua.fr/accueil/residence-de-l-artisan-icol-fin_nov_2020/" target="_blank"> > LIRE LA SUITE sur ce blog ></a> </font></p>
-
-<p class="text-white">
-	<br><br><br><br>
-</p>
-
-
+<br><p class="text-white" style="text-align:right;"><font size="5"><strong><a href="https://blog.association-tedua.fr/accueil/residence-de-l-artisan-icol-fin_nov_2020/" target="_blank"> > LIRE LA SUITE... ></a> </strong></font></p><br><br>

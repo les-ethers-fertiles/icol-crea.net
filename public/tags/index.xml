@@ -5,10 +5,6 @@
     <link>https://icol-crea.net/tags/</link>
     <description>Recent content in Tags on ICÖL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    
-	<atom:link href="https://icol-crea.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-fr</language><atom:link href="https://icol-crea.net/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

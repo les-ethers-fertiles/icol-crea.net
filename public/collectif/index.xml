@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>- on ICÖL</title>
+    <title>Son Collectif on ICÖL</title>
     <link>https://icol-crea.net/collectif/</link>
-    <description>Recent content in - on ICÖL</description>
+    <description>Recent content in Son Collectif on ICÖL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
-    
-	<atom:link href="https://icol-crea.net/collectif/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Son collectif</title>
-      <link>https://icol-crea.net/collectif/son-collectif/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://icol-crea.net/collectif/son-collectif/</guid>
-      <description></description>
-    </item>
-    
+    <language>fr-fr</language><atom:link href="https://icol-crea.net/collectif/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

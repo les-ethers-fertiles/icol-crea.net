@@ -628,7 +628,7 @@ textarea.form-control {
       font-weight: 500;
     }
   }
-  
+
   pre {
     padding: 10px 20px;
     background: #dadada;
@@ -669,18 +669,18 @@ textarea.form-control {
 #myBtn:hover {
   background: #ddd;
   color: black;
-} 
+}
 
-.center { 
-margin: 0 auto; 
-width: 80%; 
+.center {
+margin: 0 auto;
+width: 80%;
 }
 
 #collectif {
   padding: 40px 0;
 }
 
-/* rendre opaque certaines ections pour faire ressortir l'image de fond*/
+/* rendre opaque certaines sections pour faire ressortir l'image de fond*/
 .layer {
     opacity: 1;
 }
@@ -702,4 +702,8 @@ width: 80%;
   background-color: $primary-color;
 }
 
-
+.audio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

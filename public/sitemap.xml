@@ -1,75 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://icol-crea.net/collectif/</loc>
+    <loc>https://icol-crea.net/products1/product-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://icol-crea.net/products/product-1/</loc>
+  </url><url>
+    <loc>https://icol-crea.net/products2/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://icol-crea.net/products/product-2/</loc>
+  </url><url>
+    <loc>https://icol-crea.net/products1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://icol-crea.net/products/</loc>
+  </url><url>
+    <loc>https://icol-crea.net/products2/product-6/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://icol-crea.net/products/product-3bis/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://icol-crea.net/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://icol-crea.net/collectif/son-collectif/</loc>
+  </url><url>
+    <loc>https://icol-crea.net/products2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://icol-crea.net/products/product-4/</loc>
+  </url><url>
+    <loc>https://icol-crea.net/products1/product-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://icol-crea.net/products/product-6/</loc>
+  </url><url>
+    <loc>https://icol-crea.net/products2/product-5/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://icol-crea.net/products/product-5bis/</loc>
+  </url><url>
+    <loc>https://icol-crea.net/products2/product-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://icol-crea.net/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://icol-crea.net/terms-conditions/</loc>
+  </url><url>
+    <loc>https://icol-crea.net/privacy-policy/</loc>
+  </url><url>
     <loc>https://icol-crea.net/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://icol-crea.net/collectif/</loc>
+  </url><url>
     <loc>https://icol-crea.net/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://icol-crea.net/privacy-policy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://icol-crea.net/terms-conditions/</loc>
-  </url>
-  
 </urlset>

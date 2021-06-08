@@ -1,39 +1,15 @@
-############################# banner ############################
-banner:
-  enable : true
-  title : "TITRE"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
-  button:
-   enable : true
-   label : "Browse All Products"
-   link : "products"
-
-
-
-############################# promo ############################
-promo:
-  enable : true
-  image : "images/watch.png"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
-
-
 #################################### Products ########################
-products:
+products :
   enable : true
-  title : "Les 6 bijoux du moment :"
+  title : "Suggestions :"
 
+produits :
+  enable : true
+  titre: "Galerie :"
 
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/background.jpg"
-  title : "Sur-Mesure : "
+  title : "Sur-Mesure :"
   content : "Loïc Arnaud crée et fabrique des bijoux sur-mesure, entièrement imaginés à partir d'un souhait, d'un mot, d'une ambiance que vous lui commandez : "
   placeholder : "Votre email ici pour faire votre demande"
-
-
